@@ -77,17 +77,6 @@ class Mahyar:
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahyar-al&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyar-al&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
 
 ---
 
